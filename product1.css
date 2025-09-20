@@ -1,0 +1,14 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #ffe4e1;
+  text-align: center;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+a {
+  color: navy;
+  text-decoration: none;
+}
